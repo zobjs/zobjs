@@ -1,113 +1,54 @@
-<h3 align="center" style="color:#00d4ff; padding: 30px; font-size:20px;">
-  Welcome to My GitHub Profile
-</h3>
+## Skills
 
-<p align="center">
-  <a href="/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=04FF3C&center=true&width=435&lines=Hi%2C+I+am+Zobaidul+Kazi;+Full+Stack+JavaScript+Developer+" alt="Typing SVG" /></a>
-</p>
+### Programming Languages
+- JavaScript
+- TypeScript
+- Python
 
-<p align="center">
-  I am a dedicated and passionate Full Stack Developer with a strong background in creating scalable and efficient web applications. My expertise lies in both frontend and backend development, allowing me to build comprehensive digital solutions from the ground up. Here’s a bit more about who I am and where you can find me online:
-</p>
+### Front-End Development
+- HTML5
+- CSS3 (Tailwind CSS)
+- React, Angular, Vue.js
+- Material-UI, Bootstrap, NextUI
+- Responsive Design, Mobile-First Design
 
-<p align="center">
-  <a href="https://zobkazi.github.io">
-    <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25584%26project%3D%26in=0" alt="CodeTime Badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=zobkazi&color=blue" alt="Profile Views" />
-</p>
+### Back-End Development
+- Node.js
+- Express.js
+- RESTful APIs, GraphQL
+- Authentication & Authorization (JWT, OAuth)
 
-## 🛠️ My Skills
+### Database Management
+- MySQL, PostgreSQL
+- MongoDB, Firebase
+- Mongoose, Sequelize
 
-<details>
-  <summary>Click to expand</summary>
+### DevOps & Deployment
+- Docker, CI/CD Pipelines (GitHub Actions, Jenkins, Travis CI)
+- AWS, Azure, Google Cloud Platform
+- Serverless Architecture, Kubernetes
 
-### 👉 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python" alt="Programming Languages" />
+### Version Control
+- Git, GitHub, GitLab, Bitbucket
 
-### 👉 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,html,css,sass,bootstrap,tailwind,materialui" alt="Frontend Development" />
+### Testing
+- Jest, Mocha, Chai
+- Cypress, Selenium
 
-### 👉 Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,deno,express,nest,fastapi,redis,rabbitmq,kafka" alt="Backend Development" />
+### Security
+- OWASP, Data Encryption, Secure Coding Practices
 
-### 👉 Databases Management Systems
-<img src="https://skillicons.dev/icons?i=mongo,mysql,postgres,prisma,supabase,sequelize" alt="Databases Management Systems" />
+### Tools & IDEs
+- VS Code, WebStorm
+- Postman, GitHub Desktop
 
-### 👉 Software & Tools
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,npm,yarn,pnpm,figma" alt="Software & Tools" />
+### Project Management & Collaboration
+- Agile Methodologies (Scrum, Kanban)
+- JIRA, Trello
+- Slack, Microsoft Teams
 
-### 👉 API Integrations & IDE
-<img src="https://skillicons.dev/icons?i=vscode,codepen,postman" alt="API Integrations & IDE" />
-
-### 👉 Operating Systems & CMS
-<img src="https://skillicons.dev/icons?i=linux,windows,wordpress" alt="Operating Systems & CMS" />
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/zobkazi/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zobkazi&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/zobkazi/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobkazi&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</p>
-
-## 📈 Top Languages and ⏱️ WakaTime Stats
-
-<p align="center">
-  <a href="https://github.com/zobkazi/github-readme-stats">
-    <img height="300"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobkazi&langs_count=8&theme=algolia" />
-  </a>
-  <a href="https://github.com/zobkazi/github-readme-stats">
-    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zobaidulkazi" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/zobaidulkazi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/zobaidulkazi">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://zobkazi.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-rffa00?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:zk.kazi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-## 📃 Educational Background
-
-<details>
-  <summary>Click to expand</summary>
-
-- 📖 **Diploma In Engineering**\
-  📆 &nbsp;2019 - 2023\
-  📈 &nbsp;Result: 3.08 [out of 4.00]\
-  📍 **Mymensingh Polytechnic Institute** - Mymensingh, Bangladesh
-
-- 📖 **SSC**\
-  📆 &nbsp;2017 - 2018\
-  📈 &nbsp;Result: 4.71 [out of 5.00]\
-  📍 **Ulipur, Kurigram** - Rangpur, Bangladesh
-
-- 📖 **FullStack Army**\
-  📆 &nbsp;2020 - 2024\
-  🧩 &nbsp;Stack Learner\
-  📍 **Dhaka** - Bangladesh
-</details>
-
----
-
-Feel free to reach out if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections!
+### Additional Skills
+- API Integrations (Stripe, Twilio)
+- GraphQL
+- WebSockets
+- Microservices Architecture
